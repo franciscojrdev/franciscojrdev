@@ -1,62 +1,31 @@
-### Hi there, I'm Francisco Junior 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10439F&height=180&section=header&text=Francisco+Junior&fontSize=25&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<hr>
-<img align="right" alt="img" src="./code.svg" width="500" height="320"/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+Be-Welcome!+:%29;I'm+a+Full+Stack+Developer!+:%29;)](https://git.io/typing-svg)
 
-## I'm a software developer, administrative agent and creator !!
+##
 
-- 🔭 I’m currently working on my portfolio and some projects
-- 🌱 I’m currently learning MongoDb and NodeJs
-- 👯 I’m looking to collaborate on new projects
-- 🤔 I’m looking for help with clean code
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: He/ him
-- ⚡ Fun fact: I've been learning English for 2 years, I feel more confident now and I'd like learning French too
+<div align="center"> 
+  <h3 align="left">Git Stats</h3>
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojrdev&layout=compact&hide_border=true&title_color=10439F&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=franciscojrdev&show_icons=true&count_private=true&hide_border=true&title_color=10439F&icon_color=10439F&text_color=ffffff&bg_color=0d1117" alt="franciscojrdev's github stats" /> 
+</div>
 
-<hr>
+##
 
-### Talk with me, Let's see if i can help you with something 😄:
-
-<br>
-<a href="https://www.instagram.com/franciscojr17/">
-  <img style="margin-right: 10px" align="left" alt="Abhishek's Instagram" width="35px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.gg/620372099739025409">
-  <img style="margin-right: 10px" align="left" alt="Abhishek's Discord" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/francisco-junior-271567209/">
-  <img style="margin-right: 10px" style="margin-right: 10px" align="left" alt="Abhishek's LinkedIN" width="35px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<br>
-<br>
-
-# Languages and Tools:
-
-<p align="center">
-  <a href="https://skillicons.dev">
+  <div style="display: inline_block">
+  <h3>Languages and Tools:</h3>
+  <a href="https://skillicons.dev" style="display:center">
     <img src="https://skillicons.dev/icons?i=c,js,html,css,vscode,react,figma,nodejs,mongodb,linux,vercel" />
   </a>
-</p>
+</div>
 
-# Details
+##
 
-<img align="left" width="400px" height="190px" alt="Francisco's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=franciscojrdev&show_icons=true&hide_border=true" />
+<div align="left" >
+  <h3>Get in Contact:</h3>
+  <a href="https://www.instagram.com/franciscojr17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:franciscojunior7222@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="hhttps://www.linkedin.com/in/franciscojrdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-<img align ="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscojrdev&layout=compact">
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=c,js,html,css,vscode,react,figma,nodejs,mongodb,linux)](https://skillicons.dev) -->
-
-<!--
-**franciscojrdev/franciscojrdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my portfolio
-- 🌱 I’m currently learning MongoDb and NodeJs
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with clean code and
-- 💬 Ask me about ... Anything
-- 📫 How to reach me: ...
-- 😄 Pronouns: He/ him
-- ⚡ Fun fact: I've been learning English for 2 years,
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10439F&height=150&section=footer"/>
